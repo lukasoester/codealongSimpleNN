@@ -39,4 +39,4 @@ print(synaptic_weights)
 print('Outputs after training: ')
 print(outputs)
 
-https://www.youtube.com/watch?v=Fk12ELJ9Bww
+# https://www.youtube.com/watch?v=Fk12ELJ9Bww
